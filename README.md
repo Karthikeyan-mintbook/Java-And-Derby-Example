@@ -1,12 +1,12 @@
-# Java-And-Derby-Example
+# Java-And-Derby-Example - Code will be available on 27-07-17 (18 PM INDIA)
 
 Advantages Of Derby Database use to Java Application:
   
-  * End user dont need to install any database software. Means if developer used to develop mySQL database user must install MySQL Software like Xampp or Wampp. But If we use DERBY Database end user dont need to install derby sofware.
+  * End user dont need to install any database software. Means if developer used to develop mySQL database user must install MySQL Software like Xampp or Wampp. But If we use DERBY Database end user dont need to install derby sofware. Local database for maintain application datas. 
   
   * Its acheived by Just you Import derby.jar file in your application development time. So your java application will take care of database operations.Eg : CRUD.
   
-  * NOTE: Here I am mention core java application and without MySQL Server connection. Local database for maintain application datas. 
+  * NOTE: Here I am mention core java application and without MySQL Server connection.
   
   * Derby is Opensource. Under the Apache License, Version 2.0.
   
