@@ -1,4 +1,4 @@
-# Java-And-Derby-Example - Code will be available on 27-07-17 (18 PM INDIA)
+# Java-And-Derby-Example - CRUD OPERATION DEMO
 
 Advantages Of Derby Database use to Java Application:
   
