@@ -1,8 +1,6 @@
 # Java-And-Derby-Example - CRUD OPERATION DEMO
 Introduction: 
-    In this example will give you eazy understand about the Derby database connection with core java.  
-    
-    In core java applications(Swing,JavaFX) require to store datas to database. Database operation we can achive by 2 ways. One is use online database, another one is local machine database. If developer choose local machine database(MySQL/Oracle) end user must install same Database(MySQL/Oracle) Software manually like Xampp or Wampp(MySQL). Its hard to end user.  
+    In this example will give you eazy understand about the Derby database connection with core java. core java applications(Swing,JavaFX) require to store datas to database. Database operation we can achive by 2 ways. One is use online database, another one is local machine database. If developer choose local machine database(MySQL/Oracle) end user must install same Database(MySQL/Oracle) Software manually like Xampp or Wampp(MySQL). Its hard to end user.  
     
 As developer will use DERBY Database, end user dont need to install any database sofware. 
 
