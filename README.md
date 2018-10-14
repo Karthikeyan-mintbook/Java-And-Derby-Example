@@ -1,21 +1,23 @@
 # Java-And-Derby-Example - CRUD OPERATION DEMO
 Introduction: 
-    core java application(Swing,JavaFX) development time datas storing to database we can achive by 2 ways. One is use online database, another one is local machine database. local machine database means if developer used to localhost mySQL database user must install MySQL Software like Xampp or Wampp. But If we use DERBY Database end user dont need to install any database sofware. 
+    In this example will give you eazy understand about the Derby database connection with core java.  
+    
+    In core java applications(Swing,JavaFX) require to store datas to database. Database operation we can achive by 2 ways. One is use online database, another one is local machine database. If developer choose local machine database(MySQL/Oracle) end user must install same Database(MySQL/Oracle) Software manually like Xampp or Wampp(MySQL). Its hard to end user.  
+    
+As developer will use DERBY Database, end user dont need to install any database sofware. 
 
 Advantages Of Derby Database use to Java Application:
   
-  * End user dont need to install any database software.
-  
-  * Its acheived by  Import derby.jar file in your application development time. So your java application will take care of database operations.Eg : CRUD.
+  * End user dont need to install any database software.Its acheived by import derby.jar file in along with java application setup.
   
   * Derby is Opensource. Under the Apache License, Version 2.0.
   
-  * Dont need to download derby.jar file. Its comes in java. Eg: Java\jdk1.8.0_112\db\lib\derby.jar.
+  * Dont need to download derby.jar file. Its comes with java. Eg: Java\jdk1.8.0_112\db\lib\derby.jar.
   
-  * Its good choice for SWING , JavaFX Applications.
+  * Its good choice for SWING , JavaFX Applications development.
   
   
   Software Requirements:
-  
+ 
     * Java 1.8.0_112.
     * Net Beans 8.2
